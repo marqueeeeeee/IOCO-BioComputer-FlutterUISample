@@ -1,4 +1,6 @@
-# ui_test2
+# IOCO-BioComputer-FlutterUISample
+
+Inspired from: Creative Mints Design - https://dribbble.com/shots/9684522-IOCO-Biocomputer
 
 A new Flutter project.
 
