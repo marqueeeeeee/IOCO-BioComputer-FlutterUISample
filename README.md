@@ -4,8 +4,6 @@ Inspired from: Creative Mints Design - https://dribbble.com/shots/9684522-IOCO-B
 
 A new Flutter project.
 
-
-![Alt Text](https://imgur.com/a/btMtgJx)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
